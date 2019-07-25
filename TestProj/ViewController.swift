@@ -12,8 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //this is my testProject For github
-        print("hello")
+       //edited
+        print("editedOne")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
